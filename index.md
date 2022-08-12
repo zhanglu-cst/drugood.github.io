@@ -43,11 +43,6 @@ In-distribution (ID) results correspond to the train-to-train setting. Parenthes
 |Mixup|89.14 | 90.41 |85.99 |71.06 |89.36 |91.11 |83.09 |68.25 |
 |GroupDro|88.73 |88.51 |85.37 |72.95 |89.06 |89.36 |82.26 |67.62 |
 
-
-
-
-
-
 ### Code and Document
 
 To be released.
